@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:18.11.25
+## Reference Number:212224230218
+## Name:R.TEJASWINI
 ## Problem Title
 SIH 25006: Development of a Digital Farm Management Portal for implementing Biosecurity measures in Pig and Poultry Farms
 ## Problem Description
@@ -41,27 +41,77 @@ Ministry of Fisheries, Animal Husbandry & Dairying
 Department of Animal Husbandry & Dairying (DoAH&D)
 
 ## Proposed Solution
-Remove These Lines
 1. Detailed explanation of the proposed solution
+→ What you are building?
+
 2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+→ How your portal helps farmers?
+
+3. Innovation and uniqueness
+→ What makes your idea special?
+
+Example (you will replace with your own words if needed):
+
+A digital portal for risk assessment, alerts, training, compliance tracking
+
+Mobile-first, simple to use
+
+Sensor integration for real-time disease alerts
+
+Multilingual support
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
 
+1. Technologies used
+Example:
+
+Frontend: React / HTML CSS
+
+Backend: Node.js / Python
+
+Database: MySQL / MongoDB
+
+Hosting: Cloud / local
+
+2. Methodology / process
+→ How your system works step-by-step
+
+3. Flow Chart / Architecture Diagram
+→ I can create this for you — just say “make the diagram”.
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+1. Is your solution possible? (Yes, because…)
+
+2. Challenges
+
+Internet issues
+
+Farmer digital literacy
+
+Data protection
+
+3. Solutions
+
+Offline mode
+
+Simple UI
+
+Secure login
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+How this solution helps farmers
+
+Benefits like:
+ healthier animals
+ reduced disease
+ better income
+ faster alerts
+ improved government surveillance
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+Ministry of Animal Husbandry guidelines
+
+FAO poultry biosecurity manual
+
+WHO ASF prevention article
+
+Any website or research you used
